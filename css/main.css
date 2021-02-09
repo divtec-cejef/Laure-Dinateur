@@ -1,0 +1,31 @@
+/************************
+******** GENERAL ********
+************************/
+
+/* https://coolors.co/e7e9eb-fdfffc-2ec4b6-e71d36-011627 */
+
+@import url('https://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400,400i,700,700i,800');
+
+body {
+    background-color: #fdfffc ;
+    color: #011627;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Changa One', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0 0 1em;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin: 0 0 .75em;
+}
